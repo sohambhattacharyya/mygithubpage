@@ -1,18 +1,18 @@
 # Site settings
-title: Jekyll-Uno
-description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
-url: 'http://joshgerdes.com/jekyll-uno'
-baseurl: '/jekyll-uno/'
-# google_analytics: 'UA-XXXXXX-X'
-# disqus_shortname: 'your-disqus-name'
+title: Soham Bhattacharyya
+description: '21 years old | ECE undergrad | developer | electronics | open source | mainframe | spirituality | universe'
+url: 'http://sohambhattacharyya.me'
+baseurl: '/'
+google_analytics: 'UA-83935417-1'
+disqus_shortname: 'porto_s'
 
 author:
-  name: 'Josh Gerdes'
-  email: josh@joshgerdes.com
-  twitter_username: joshgerdes
-  facebook_username: joshgerdes
-  github_username:  joshgerdes
-  linkedin_username:  joshgerdes
+  name: 'Soham Bhattacharyya'
+  email: soham1.618@gmail.com
+  twitter_username: soham99
+  facebook_username: soham95
+  github_username:  SohamBhattacharyya
+  linkedin_username:  soham-bhattacharyya
 
 defaults:
   -
