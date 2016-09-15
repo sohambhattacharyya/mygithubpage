@@ -1,0 +1,11 @@
+---
+title: "The 3:44 am post . . ."
+date: 2016-07-08 03:44:23
+categories: [uncategorized]
+tags: [uncategorized]
+---
+Site construction is in progress (in case you have accidentally landed on this page). Experimenting with layout and formatting. The fine tuning. I have integrated some of my social accounts. And it is quite close to be up and running.
+
+Well, the goal for this site will be to provide quality, original content targeting anyone interested in programming, electronics, software development, computers, engineering and likely a few other topics about which I am obsessed. I will also use this site to showcase some of my projects and to keep a track of my learning experience which will slip into the content stream from time to time. Think music.
+
+While this site is currently viewable on the web, and most likely will appear in certain search results, I am not yet actively promoting it, since I am not yet providing content of any real value. My focus is on creating the site structure. I hope to offer up all sorts of scintillating thoughts, reflections, and wisdom soon, however, so please check back!
