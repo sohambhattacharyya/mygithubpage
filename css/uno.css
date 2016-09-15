@@ -1,4 +1,8 @@
+/*
 @import 'https://fonts.googleapis.com/css?family=Raleway:400,700|Roboto+Slab:300,400)';
+*/
+@import 'https://fonts.googleapis.com/css?family=Anonymous+Pro';
+@import 'https://fonts.googleapis.com/css?family=Karla';
 /* http://meyerweb.com/eric/tools/css/reset/
 	 v2.0 | 20110126
 	 License: none (public domain)
@@ -925,7 +929,8 @@ html {
 	max-height: 100%; }
 
 body {
-	font-family: "Raleway", sans-serif;
+/*	font-family: "Raleway", sans-serif;	*/
+	font-family: "Karla", sans-serif;
 	font-size: 1em;
 	color: #666666; }
 
@@ -953,8 +958,10 @@ h5,
 h5 {
 	margin-top: .8em;
 	margin-bottom: .4em;
-	font-family: "Roboto Slab", serif;
-	font-weight: lighter;
+/*	font-family: "Roboto Slab", serif;	*/
+	font-family: "Anonymous Pro", monospace;
+/*	font-weight: lighter;	*/
+	font-weight: 400;
 	color: #333333;
 	-webkit-font-smoothing: antialiased; }
 
