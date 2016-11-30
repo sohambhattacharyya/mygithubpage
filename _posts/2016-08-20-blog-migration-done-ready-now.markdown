@@ -8,7 +8,7 @@ The site is almost complete and I am paving my way through putting content toget
 
 Initially, I need to finish the _Basic DSP with MATLAB_ series, both for 'blogging practice' and because it will assist me in keeping my cognitive memory of computing at its apex. My projects and other works and experiences also will slip into the content stream parallelly.
 
-Thanks for dropping by. Come back and see how things are progressing. I am eager to begin exploring and sharing amazing topics.
+Thanks for dropping by. Come back and see how things are progressing. I am eager to begin exploring and sharing amazing topics!
 
 [jekyll]:		http://jekyllrb.com
 [markdown]:		https://daringfireball.net/projects/markdown/
