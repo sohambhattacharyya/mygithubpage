@@ -10,7 +10,7 @@ The idea is to take an application-oriented practical approach towards the beaut
 
 Another purpose of this series of blog posts will be to function as an online reference for myself and other professionals in this field. I have tried to put together MATLAB algorithms of most of the topics covered in the standard DSP course at MIT OpenCourseWare. That being the reason, to keep the blog post from being extremely long and to keep you interested, I have split it in 3 segments along with a [reference blog post][part4], that indexes and describes shortly the set of functions I have used in this series and further readings and references.
 
-###Generation of Discrete-Time Sequences
+### Generation of Discrete-Time Sequences
 
 This one is pretty straight forward. We use the mathematical functions for each of the known waveforms and `subplot` them in four sectors. In case of the unit step function we create a row matrix of value 1 using the `ones` function.
 
@@ -42,7 +42,11 @@ title('Addition of two Sinusoidal Sequences');
 
 ![Alt](/images/dsp_matlab_1/blog1.jpg "Output waveforms of discrete-time sequences")
 
-###Convolution of Two Sequences
+---------------------------------------------------------------------
+### Under maintenance. Please check back soon.
+---------------------------------------------------------------------
+
+### Convolution of Two Sequences
 
 //text
 
@@ -53,7 +57,7 @@ title('Addition of two Sinusoidal Sequences');
 ![Alt](/images/dsp_matlab_1/blog2.jpg "Output waveform of convolution of two sequences")
 
 
-###Frequency Response of a First Order System
+### Frequency Response of a First Order System
 
 //text
 
@@ -64,7 +68,7 @@ title('Addition of two Sinusoidal Sequences');
 ![Alt](/images/dsp_matlab_1/blog3.jpg "Output frequency response waveform of a first order system")
 
 
-###Frequency Response of a Given System
+### Frequency Response of a Given System
 
 //text
 
@@ -75,7 +79,7 @@ title('Addition of two Sinusoidal Sequences');
 ![Alt](/images/dsp_matlab_1/blog4.jpg "Output frequency response waveform of a given system")
 
 
-###Frequency Response of an FIR System
+### Frequency Response of an FIR System
 
 //text
 
@@ -86,7 +90,7 @@ title('Addition of two Sinusoidal Sequences');
 ![Alt](/images/dsp_matlab_1/blog5.jpg "Output frequency response waveform of an FIR system")
 
 
-###Periodic and Aperiodic Sequences
+### Periodic and Aperiodic Sequences
 
 //text
 
@@ -97,7 +101,7 @@ title('Addition of two Sinusoidal Sequences');
 ![Alt](/images/dsp_matlab_1/blog6.jpg "Output waveform of periodic and periodic sequences")
 
 
-###Periodicity Property of Digital Frequency
+### Periodicity Property of Digital Frequency
 
 //text
 
@@ -108,7 +112,7 @@ title('Addition of two Sinusoidal Sequences');
 ![Alt](/images/dsp_matlab_1/blog7.jpg "Waveforms that explain periodicity property of digital frequency")
 
 
-###Demostration of the Property of Digital Frequency
+### Demostration of the Property of Digital Frequency
 
 //text
 
@@ -119,7 +123,7 @@ title('Addition of two Sinusoidal Sequences');
 ![Alt](/images/dsp_matlab_1/blog8.jpg "Waveforms that demonstrate the property of digital frequency")
 
 
-###A Notch Filter that filters 50 Hz Noise
+### A Notch Filter that filters 50 Hz Noise
 
 //text
 
