@@ -1,5 +1,5 @@
 ---
-title: "Introduction to DSP using MATLAB Part I"
+title: "Introduction to DSP using MATLAB - Part I"
 date: 2017-04-09 00:00:00
 categories: DSP
 tags: [DSP, MATLAB, convolution, system, frequency, FIR]
