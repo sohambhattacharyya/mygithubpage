@@ -43,7 +43,7 @@ title('Addition of two Sinusoidal Sequences');
 ![Alt](/images/dsp_matlab_1/blog1.jpg "Output waveforms of discrete-time sequences")
 
 ---------------------------------------------------------------------
-### Under maintenance. Please check back soon.
+### **Under maintenance. Please check back soon.**
 ---------------------------------------------------------------------
 
 ### Convolution of Two Sequences
