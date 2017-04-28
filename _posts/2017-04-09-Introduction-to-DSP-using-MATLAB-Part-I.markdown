@@ -4,9 +4,9 @@ date: 2017-04-09 00:00:00
 categories: DSP
 tags: [DSP, MATLAB, convolution, system, frequency, FIR]
 ---
-Last semester I took the course of Digital Signal Processing as a part of my ECE undergrad coursework. Unlike many other courses, to one's awe, I didn't find any reference site or portal, that would help me get an overall insight of the subject from a practical application-oriented viewpoint before being bogged down with the bombardment of its theories and pracical assignments in the middle of the semester. Or that I could look upto, use as a reference site, to back up the learning process of this course throughout the semester.
+Last semester, I had to take the course of Digital Signal Processing as a part of my ECE undergrad coursework. Unlike many other papers, to one's awe, I didn't find any reference site or portal, that would give me an overall review of the subject from an application-oriented viewpoint before being bogged down with its theories and pracical assignments. Or that I could look upto, use as a reference site, to back up the learning process of this course throughout the semester.
 
-The idea is to take an application-oriented practical approach towards the beautiful subject of DSP, that would help new learners taste its power, benefits before the theoritical knowledge take over to complete it. Although, for gaining deep insights I do recommend thorough studying of text books, for which I would suggest the one authored by John G. Proakis, Manokalis and the one by Sir Alan V. Oppenheim, which you can buy on Amazon from [here][book1] and [here][book2].
+The idea is to take an application-oriented practical approach towards the beautiful subject of DSP, that would help new learners taste its power, benefits before the theoritical knowledge takes over to complete it. Although, for gaining deep insights I do recommend thorough studying of text books, for which I would suggest the one authored by John G. Proakis, Manokalis and the one by Sir Alan V. Oppenheim, which you can buy on Amazon from [here][book1] and [here][book2].
 
 Another purpose of this series of blog posts will be to function as an online reference for myself and other professionals in this field. I have tried to put together MATLAB algorithms of most of the topics covered in the standard DSP course at MIT OpenCourseWare. That being the reason, to keep the blog post from being extremely long and to keep you interested, I have split it in 3 segments along with a [reference blog post][part4], that indexes and describes shortly the set of functions I have used in this series and further readings and references.
 
@@ -144,6 +144,6 @@ title('Addition of two Sinusoidal Sequences');
 ![Alt](/images/dsp_matlab_1/blog7.jpg "Waveforms of a notch filter that filters 50 Hz noise")
 
 
-[book1]:		http://jekyllrb.com
-[book2]:		https://daringfireball.net/projects/markdown/
-[part4]:		https://wordpress.com/theme/karuna
+[book1]:		http://www.amazon.in/Digital-Signal-Processing-Principles-Applications/dp/8131710009/ref=sr_1_fkmr0_1?ie=UTF8&qid=1493404937&sr=8-1-fkmr0&keywords=proakis+manokalis
+[book2]:		http://www.amazon.in/Digital-Signal-Processing-Oppenheim-Schafer/dp/9332550336/ref=sr_1_2?ie=UTF8&qid=1493405049&sr=8-2&keywords=oppenheim
+[part4]:		http://sohambhattacharyya.me/2017/Introduction-to-DSP-using-MATLAB-Part-I/
